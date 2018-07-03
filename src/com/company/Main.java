@@ -12,5 +12,7 @@ public class Main {
         System.out.println("techniki");
         System.out.println("Ciemne");
         System.out.println("chmury");
+//        Wyslano nowe dane
+//        Wyslano nowe dane
     }
 }
