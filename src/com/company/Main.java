@@ -10,5 +10,7 @@ public class Main {
         System.out.print("commitowania\n");
         System.out.println("Zdobycze");
         System.out.println("techniki");
+        System.out.println("Ciemne");
+        System.out.println("chmury");
     }
 }
