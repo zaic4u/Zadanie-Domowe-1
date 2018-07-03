@@ -14,5 +14,8 @@ public class Main {
         System.out.println("chmury");
 //        Wyslano nowe dane
 //        Wyslano nowe dane
+        System.out.println('1');
+        System.out.println('2');
+        System.out.println('3');
     }
 }
